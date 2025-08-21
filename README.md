@@ -26,9 +26,7 @@ _Basic Authentication_: (Optional, if you added login) Support for registering a
 
 **Project Purpose**
 
-The app is not advanced but serves as a learning project to practice:
-
-Building a full-stack application with React (frontend) and Spring Boot (backend).
+The app is not advanced but serves as a learning project to practice building a full-stack application with React (frontend) and Spring Boot (backend).
 
 Implementing real-time communication with WebSockets.
 
