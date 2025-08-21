@@ -3,6 +3,7 @@ This Chat App is a simple full-stack application that allows users to send and r
 This project was built to understand the fundamentals of real-time communication, client–server interaction, and full-stack integration. While it is a basic version and not production-grade, it demonstrates key concepts of building modern chat applications.
 
 **Tech Stack**
+
 _Frontend_: React.js (UI for chat, file sharing, and integration with video calls)
 
 _Backend_: Java Spring Boot (REST APIs, WebSocket support for real-time messaging)
@@ -12,6 +13,7 @@ _Database_: (Your DB here – e.g., MySQL / MongoDB) for storing users and messa
 _Other Tools_: WebSocket / STOMP for real-time communication
 
 **Features**
+
 _Real-Time Messaging_:Instant message delivery between connected users.
 
 _File Sharing_: Upload and share files within the chat.
