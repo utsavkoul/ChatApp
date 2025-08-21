@@ -26,10 +26,6 @@ _Basic Authentication_: (Optional, if you added login) Support for registering a
 
 **Project Purpose**
 
-The app is not advanced but serves as a learning project to practice building a full-stack application with React (frontend) and Spring Boot (backend).
-
-Implementing real-time communication with WebSockets.
-
-Understanding how to integrate third-party services like video chat.
+The app is not advanced but serves as a learning project to practice building a full-stack application with React (frontend) and Spring Boot (backend), implementing real-time communication with WebSockets, and understanding how to integrate third-party services like video chat.
 
 This foundation can be extended in the future with features like group chats, message encryption, notifications, and advanced authentication.
